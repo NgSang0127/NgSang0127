@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">• ✉️  You can contact me at <a>nsang0127@gmail.com</a><br>• 🧠  I'm studying at International University (HCMIU)</p>
+<p align="left">• ✉️  You can contact me at<a href="mailto:nsang0127@gmail.com">nsang0127@gmail.com</a><br>• 🧠  I'm studying at International University (HCMIU)</p>
 
 ###
 

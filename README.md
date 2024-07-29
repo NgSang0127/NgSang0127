@@ -4,59 +4,48 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=6994CDEE&text=&animation=twinkling&height=80)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=3500&pause=3&color=6994CDEE&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Hi👋!+My+name+is+Nguyen+Cong+Sang)](https://git.io/typing-svg)
 
-<img align="right" width=200px height=200px alt="side_sticker" src="./images/profile_dev.svg" />
-
 ### 📊 ***About Me***
 <p align="left">• 📞  You can contact me at <a href="mailto:nsang0127@gmail.com">nsang0127@gmail.com</a><br>• 🧠  I'm studying at International University (HCMIU)</p>
 
+
+<h2 align="left">🔨 Skills</h3>
+
+
+### 👨‍💻 Programming Languages
+<p>
+     <a href="https://github.com/search?q=user%3ANhatHuy1305+is%3Arepo+language%3Ajava"><img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?logo=openjdk&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3ANhatHuy1305+is%3Arepo+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-F7DF1E.svg?logo=javascript&logoColor=white"></a>
+</p>
+
+### 📚 Libraries
+<p>
+    <a href="#"><img alt="React" src="https://img.shields.io/badge/React%20-61DAFB.svg?logo=react&logoColor=white"></a>
+</p>
 ###
 
-<h3 align="left">Skills</h3>
+### 🗄️ Databases
 
-###
+<p>
+    <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1.svg?logo=mysql&logoColor=white"></a>
+</p>
 
-<h4 align="left">Programming Languages</h4>
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="39" alt="java logo" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="39" alt="javascript logo" />
-</div>
+### 🧰 Frameworks
+<p>
+    <a href="#"><img alt="Spring MVC" src="https://img.shields.io/badge/Spring%20MVC-6DB33F.svg?logo=spring&logoColor=white"></a>
+    <a href="#"><img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot%20-6DB33F.svg?logo=springboot&logoColor=white"></a>
+    <a href="#"><img alt="Spring Security" src="https://img.shields.io/badge/Spring%20Security%20-6DB33F.svg?logo=springsecurity&logoColor=white"></a>
+</p>
 
-###
 
-<h4 align="left">Frameworks & Libraries</h4>
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="39" alt="spring logo" />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=react" height="39" alt="react logo" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="39" alt="redux logo" />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="39" alt="tailwindcss logo" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="39" alt="materialui logo" />
-</div>
-
-###
-
-<h4 align="left">Tools</h4>
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="39" alt="intellij idea logo" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webstorm/webstorm-original.svg" height="39" alt="webstorm logo" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="39" alt="git logo" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="39" alt="docker logo" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="39" alt="mysql logo" />
-</div>
-
-###
+#### 💻 Coding Tools
+<p>
+    <a href="#"><img alt="IntelliJ" src="https://img.shields.io/badge/IntelliJ%20IDEA-4c0099.svg?logo=intellijidea&logoColor=white"></a>
+    <a href="#"><img alt="WebStorm" src="https://img.shields.io/badge/WebStorm-ff8000.svg?logo=webstorm&logoColor=white"></a>
+    <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37.svg?logo=postman&logoColor=white"></a>
+</p>
 
 <h3 align="left">Social</h3>
 
-###
 
 <div align="left">
    <a href="https://www.linkedin.com/in/ngsang0127/" target="_blank">

@@ -21,7 +21,6 @@
 <p>
     <a href="#"><img alt="React" src="https://img.shields.io/badge/React%20-61DAFB.svg?logo=react&logoColor=white"></a>
 </p>
-###
 
 ### 🗄️ Databases
 

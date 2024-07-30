@@ -1,12 +1,15 @@
-
-
 ###
 ![header](https://capsule-render.vercel.app/api?type=waving&color=6994CDEE&text=&animation=twinkling&height=80)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=3500&pause=3&color=6994CDEE&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Hi👋!+My+name+is+Nguyen+Cong+Sang)](https://git.io/typing-svg)
 
 ### 📊 About Me
 
-<p align="left">• 📞  You can contact me at <a href="mailto:nsang0127@gmail.com">nsang0127@gmail.com</a><br>• 🧠  I'm studying at International University (HCMIU)</p>
+<p align="left">
+  • 📞 Contact: <a href="mailto:nsang0127@gmail.com">nsang0127@gmail.com</a><br>
+
+  • 🧠 Education: Student at International University (HCMIU)
+</p>
+
 <h2 align="left">🔨 Skills</h2>
 
 ### 👨‍💻 Programming Languages
@@ -45,12 +48,14 @@
     <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED.svg?logo=docker&logoColor=white"></a>
 
 </p>
-<h3 align="left">Social</h3>
+
+### 🌐 Social
 <div align="left">
    <a href="https://www.linkedin.com/in/ngsang0127/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
 </div>
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NgSang0127&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
 </div>

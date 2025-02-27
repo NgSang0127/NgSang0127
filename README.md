@@ -1,6 +1,7 @@
 ###
 ![header](https://capsule-render.vercel.app/api?type=waving&color=6994CDEE&text=&animation=twinkling&height=80)
-My name is Nguyen Cong Sang
+
+ # My name is Nguyen Cong Sang
 
 ### 📊 About Me
 

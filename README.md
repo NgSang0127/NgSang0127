@@ -1,14 +1,14 @@
 ###
 ![header](https://capsule-render.vercel.app/api?type=waving&color=6994CDEE&text=&animation=twinkling&height=80)
 
- # My name is Nguyen Cong Sang
+ # 👋 Hi, I'm Nguyen Cong Sang
 
 ### 📊 About Me
 
 <p align="left">
-  • 📞 Contact: <a href="mailto:nsang0127@gmail.com">nsang0127@gmail.com</a><br>
-
-  • 🧠 Education: Student at International University (HCMIU)
+  • 🎓 Education: Student at International University (HCMIU)
+ 
+  • 📧 Contact: <a href="mailto:nsang0127@gmail.com">nsang0127@gmail.com</a><br>
 </p>
 
 <h2 align="left">🔨 Skills</h2>

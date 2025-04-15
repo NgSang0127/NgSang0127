@@ -46,6 +46,8 @@
     <a href="#"><img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ%20IDEA-4c0099.svg?logo=intellijidea&logoColor=white"></a>
     <a href="#"><img alt="WebStorm" src="https://img.shields.io/badge/WebStorm-ff8000.svg?logo=webstorm&logoColor=white"></a>
     <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37.svg?logo=postman&logoColor=white"></a>
+    <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat-square">
+    <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat-square">
 
 </p>
 

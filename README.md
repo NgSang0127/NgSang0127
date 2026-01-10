@@ -1,63 +1,131 @@
-###
-![header](https://capsule-render.vercel.app/api?type=waving&color=6994CDEE&text=&animation=twinkling&height=80)
 
- # 👋 Hi, I'm Nguyen Cong Sang
+<h1 align="center">Hi, I'm Nguyen Cong Sang</h1>
+<h3 align="center">Java Backend Developer | Microservices Enthusiast | Spring Boot Specialist</h3>
 
-### 📊 About Me
 
-<p align="left">
-  • 🎓 Education: Student at International University (HCMIU)
- 
-  • 📧 Contact: <a href="mailto:nsang0127@gmail.com">nsang0127@gmail.com</a><br>
-</p>
+---
 
-<h2 align="left">🔨 Skills</h2>
+### 🚀 About Me
 
-### 👨‍💻 Programming Languages
-<p>
-     <a href="#"><img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?logo=openjdk&logoColor=white"></a>
-    <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-F7DF1E.svg?logo=javascript&logoColor=white"></a>
-</p>
+```yaml
+name: Nguyen Cong Sang
+role: Java Backend Developer
+location: Ho Chi Minh City, Vietnam
+education: B.S. Computer Science @ International University (HCMIU)
+experience: 1+ year in enterprise banking systems
+current_focus: Microservices Architecture & Distributed Systems
+```
 
-### 📚 Libraries
+- 🏢 Currently working at **Modern Bank of Vietnam (MBV)** as Java Backend Developer
+- 💼 Experience in **HCM, CRM, BPM, and RPA systems** using microservices architecture
+- 🔭 Working with **Spring Boot, Apache Kafka, Keycloak, and ELK Stack**
+- 🌱 Learning **Cloud Technologies, Advanced System Design, and Performance Optimization**
+- 💬 Ask me about **Java, Spring Boot, RESTful APIs, Microservices, Docker**
+- 📫 Reach me at **nsang0127@gmail.com**
+- 📄 Check out my [CV/Resume](https://github.com/NgSang0127)
 
-<p>
-    <a href="#"><img alt="React" src="https://img.shields.io/badge/React%20-61DAFB.svg?logo=react&logoColor=white"></a>
-    <a href="#"><img alt="Redux" src="https://img.shields.io/badge/Redux%20-764ABC.svg?logo=redux&logoColor=white"></a>
-    <a href="#"><img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC.svg?logo=tailwind-css&logoColor=white"></a>
-     <a href="#"><img alt="Material-UI" src="https://img.shields.io/badge/Material%20UI-007FFF.svg?logo=mui&logoColor=white"></a>
-</p>
+---
 
-### 🧰 Frameworks
+### 🛠️ Tech Stack
 
-<p>
-    <a href="#"><img alt="Spring MVC" src="https://img.shields.io/badge/Spring%20MVC-6DB33F.svg?logo=spring&logoColor=white"></a>
-    <a href="#"><img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot%20-6DB33F.svg?logo=springboot&logoColor=white"></a>
-    <a href="#"><img alt="Spring Security" src="https://img.shields.io/badge/Spring%20Security%20-6DB33F.svg?logo=springsecurity&logoColor=white"></a>
-</p>
+#### 💻 Programming Languages
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### 🗄️ Databases
-<p>
-    <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1.svg?logo=mysql&logoColor=white"></a>
-</p>
+#### 🎯 Backend Technologies
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
 
-### 🛠️ Tools & Technologies
-<p>
-    <a href="#"><img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ%20IDEA-4c0099.svg?logo=intellijidea&logoColor=white"></a>
-    <a href="#"><img alt="WebStorm" src="https://img.shields.io/badge/WebStorm-ff8000.svg?logo=webstorm&logoColor=white"></a>
-    <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37.svg?logo=postman&logoColor=white"></a>
-    <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat-square">
-    <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat-square">
+#### 🗄️ Databases
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-</p>
+#### 🔧 DevOps & Tools
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Rancher](https://img.shields.io/badge/Rancher-0075A8?style=for-the-badge&logo=rancher&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
+![Kibana](https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-### 🌐 Social
-<div align="left">
-   <a href="https://www.linkedin.com/in/ngsang0127/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+#### 🎨 Frontend (Basic)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Material-UI](https://img.shields.io/badge/Material--UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
+
+#### 🔐 Security & Authentication
+![Keycloak](https://img.shields.io/badge/Keycloak-4D4D4D?style=for-the-badge&logo=keycloak&logoColor=white)
+![OAuth](https://img.shields.io/badge/OAuth-EB5424?style=for-the-badge&logo=oauth&logoColor=white)
+
+---
+
+### 🏆 Featured Projects
+
+
+#### 🔹 Lab Management System
+> Comprehensive system for HCMIU IT Faculty to manage lab resources, timetable bookings, and access statistics
+- **Tech Stack:** Spring Boot, React, MySQL, Redis, Docker, WebSocket, ELK Stack, JWT
+- **Features:** Real-time notifications, 2FA authentication, Excel import/export, bilingual support
+- [Backend](https://github.com/NgSang0127/lab_management_be) | [Frontend](https://github.com/NgSang0127/lab_management_ui)
+
+#### 🔹 Food Ordering Platform
+> Online food ordering system with restaurant management capabilities
+- **Tech Stack:** Spring Boot, React, MySQL, Redux, JWT, Spring Security, Tailwind CSS
+- **Features:** Order workflow management, RBAC, real-time cart updates, payment integration
+- [Backend](https://github.com/NgSang0127/FoodOrderingWebBE) | [Frontend](https://github.com/NgSang0127/foodorderingui)
+
+---
+
+### 💼 Professional Experience
+
+```
+🏦 Modern Bank of Vietnam (MBV)
+   ├─ Position: Java Backend Developer
+   ├─ Duration: May 2025 - Present
+   └─ Projects: HCM, CRM, BPM, RPA Systems
+
+🏢 TVT Group
+   ├─ Position: Intern Java Backend Developer
+   ├─ Duration: July 2024 - Sept 2024
+   └─ Focus: Internal Management Tools
+```
+
+---
+
+
+### 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ngsang0127/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-</div>
+  <a href="mailto:nsang0127@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/NgSang0127" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
+
+---
+
+### 💭 Dev Quote
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NgSang0127&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+</div>
+
+---
+
+
+<div align="center">
+
+  **⭐️ From [NgSang0127](https://github.com/NgSang0127) | Happy Coding! 👨‍💻**
 </div>

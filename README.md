@@ -16,7 +16,6 @@ experience: 1+ year in enterprise banking systems
 current_focus: Microservices Architecture & Distributed Systems
 ```
 
-- 🏢 Currently working at **Modern Bank of Vietnam (MBV)** as Java Backend Developer
 - 💼 Experience in **HCM, CRM, BPM, and RPA systems** using microservices architecture
 - 🔭 Working with **Spring Boot, Apache Kafka, Keycloak, and ELK Stack**
 - 🌱 Learning **Cloud Technologies, Advanced System Design, and Performance Optimization**

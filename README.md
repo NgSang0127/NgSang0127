@@ -12,7 +12,7 @@ name: Nguyen Cong Sang
 role: Java Backend Developer
 location: Ho Chi Minh City, Vietnam
 education: B.S. Computer Science @ International University (HCMIU)
-experience: 1+ year in enterprise banking systems
+experience: 6 months in enterprise banking systems
 current_focus: Microservices Architecture & Distributed Systems
 ```
 
